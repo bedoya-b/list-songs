@@ -2,11 +2,11 @@
   "songs": [
     {
       "bg": "#c9bea28f",
-      "artist": "sickick",
-      "songName": "talking to the moon (bruno mars remix)",
+      "artist": "Café Tacvba",
+      "songName": "Aprovéchate",
       "files": {
-        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/1/song.mp3",
-        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/1/img.jpg"
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/1/Café Tacvba - Aprovéchate (Closed-Captioned).mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/1/aprovechate.jpg"
       }
     },
     {
